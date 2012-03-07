@@ -5,7 +5,7 @@ Installation
 
 2. In your home, do:
 
-	git clone git://github.com/goomerko/vim-rails.config.git .vim
+	git clone git@github.com:migmartri/Vim-config.git .vim
 	
 	ln -s .vim/vimrc .vimrc
 
