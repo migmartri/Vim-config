@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/migmartri/.mozilla/firefox/v3dqxxev.default/extensions/jid0-GXjLLfbCoAx0LcltEdFrEkQdQPI@jetpack'
+let g:netrw_dirhist_2='/home/migmartri/.vim/ruby/command-t'
+let g:netrw_dirhist_3='/home/migmartri/work/beetailer-prestamodule/beetailer'
+let g:netrw_dirhist_4='/home/migmartri/.config/awesome'
+let g:netrw_dirhist_5='/home/migmartri/.vim/colors'
